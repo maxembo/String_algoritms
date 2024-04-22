@@ -1,4 +1,4 @@
-from task1 import prefix_border_array
+from task1_Border_array import prefix_border_array
 
 a = "лилилась лилилось"
 t = "лилила"

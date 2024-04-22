@@ -17,7 +17,7 @@ def prefix_border_array(s: str) -> list:
     return bp
 
 
-test_str = "ABCABABCAL"
+test_str = "ABAABABAABAAB"
 
 border_array = prefix_border_array(test_str)
 
